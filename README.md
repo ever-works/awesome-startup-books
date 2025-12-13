@@ -3,7 +3,7 @@
 A curated list of books for Startups
 
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Disruption & Innovation](#disruption-innovation)
 - [Biographies](#biographies)
@@ -12,6 +12,7 @@ A curated list of books for Startups
 - [Customer Experience](#customer-experience)
 - [Customer Feedback](#customer-feedback)
 - [Data & Analytics](#data-analytics)
+- [Decision Making & Strategy](#decision-making-strategy)
 - [Fundraising & Investment](#fundraising-investment)
 - [Growth & Scaling](#growth-scaling)
 - [Leadership & Management](#leadership-management)
@@ -39,8 +40,8 @@ A curated list of books for Startups
 
 ## Biographies
 
-- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) - Ashlee Vance's biography of Elon Musk provides insights into the visionary entrepreneur's approach to innovation and business, offering valuable lessons for startup founders. ([Read more](/details/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future.md)) `innovation` `visionary` `entrepreneurship`
 - [#Girlboss](https://www.goodreads.com/book/show/18667945-girlboss) - Written by Sophia Amoruso, this book chronicles her journey from a broke anarchist to a successful businesswoman. It offers insights into entrepreneurship and the challenges faced by women in business, making it an inspiring read for startup founders. ([Read more](/details/girlboss.md)) `entrepreneurship` `women` `inspiration`
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) - Ashlee Vance's biography of Elon Musk provides insights into the visionary entrepreneur's approach to innovation and business, offering valuable lessons for startup founders. ([Read more](/details/elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future.md)) `innovation` `visionary` `entrepreneurship`
 - [How I Built This](https://www.goodreads.com/book/show/48930275-how-i-built-this) - How I Built This by Guy Raz offers insights into the journeys of successful entrepreneurs. Based on the popular podcast, it shares stories of innovation, challenges, and triumphs, providing a comprehensive look at the entrepreneurial journey. ([Read more](/details/how-i-built-this.md)) `entrepreneurship` `journey` `innovation`
 - [My Life and Work](https://www.goodreads.com/book/show/31016205-my-life-and-work) - This autobiography by Henry Ford offers valuable lessons on entrepreneurship, innovation, and leadership. It's a classic read for anyone interested in the principles of building and managing a successful business. ([Read more](/details/my-life-and-work.md)) `entrepreneurship` `innovation` `leadership`
 - [Shoe Dog](https://www.thomashuysmans.be/consuming-in-2018/) - Phil Knight's memoir, 'Shoe Dog,' provides a raw and unfiltered look into the early days of Nike. It shares valuable lessons on perseverance, risk-taking, and the realities of building a global brand from scratch. ([Read more](/details/shoe-dog.md)) `perseverance` `risk-taking` `global-brand`
@@ -83,9 +84,14 @@ A curated list of books for Startups
 - [Competing in the Age of AI](https://pll.harvard.edu/course/competing-age-ai) - "Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World" by Marco Iansiti and Karim R. Lakhani offers entrepreneurs insights into leveraging AI-driven processes to scale businesses. It discusses the risks and opportunities of AI, making it a valuable resource for startups in the digital age. ([Read more](/details/competing-in-the-age-of-ai.md)) `AI` `strategy` `digital-age`
 - [Lean Analytics](https://www.goodreads.com/book/show/16033602-lean-analytics) - Alistair Croll and Benjamin Yoskovitz provide a data-driven approach to building startups, emphasizing the importance of analytics in decision-making. ([Read more](/details/lean-analytics.md)) `analytics` `data-driven` `decision-making`
 
+## Decision Making & Strategy
+
+- [Quit](https://www.wiley.com/en-jp/Startup+Opportunities%3A+Know+When+to+Quit+Your+Day+Job%2C+2nd+Edition-p-x001025175) - Annie Duke's insightful book on the strategic importance of knowing when to quit, offering valuable lessons for startup founders on decision-making and risk management. ([Read more](/details/quit.md)) `decision-making` `risk-management` `strategy`
+
 ## Fundraising & Investment
 
 - [Equity Crowdfunding](https://www.goodreads.com/book/show/32791720-equity-crowdfunding) - Written by Nathan Rose, this book serves as a comprehensive guide to equity crowdfunding, offering insights and strategies for startups looking to raise capital. ([Read more](/details/equity-crowdfunding.md)) `crowdfunding` `capital` `investment`
+- [Founder vs. Investor](https://joincolossus.com/episode/zalman-founder-vs-investor/) - This book by Jerry Neumann and Elizabeth Zalman explores the complex dynamics between founders and investors, offering insights into the venture capital process from startup to IPO. It's a must-read for understanding the often conflicting motivations in the founder-investor relationship. ([Read more](/details/founder-vs-investor.md)) `venture-capital` `founder-investor` `startup`
 - [Secrets of Sand Hill Road](https://www.secretsofsandhillroad.com/) - A book by Scott Kupor that demystifies the venture capital world, offering insights into how VCs think, what they look for in startups, and how founders can navigate the fundraising process. ([Read more](/details/secrets-of-sand-hill-road.md)) `venture-capital` `fundraising` `navigation`
 - [The Art of Startup Fundraising](https://www.goodreads.com/book/show/26407003-the-art-of-startup-fundraising) - Alejandro Cremades provides a comprehensive guide to raising capital for startups, covering everything from pitching to investors to understanding the fundraising landscape. ([Read more](/details/the-art-of-startup-fundraising.md)) `fundraising` `investment` `capital`
 - [The Crowdfunding Revolution](https://www.goodreads.com/book/show/13654919-the-crowdfunding-revolution) - Kevin Lawton's 'The Crowdfunding Revolution' explores how startups can leverage social media to raise venture capital. This book is particularly useful for entrepreneurs interested in alternative funding methods. ([Read more](/details/the-crowdfunding-revolution.md)) `crowdfunding` `venture-capital` `social-media`
@@ -118,6 +124,7 @@ A curated list of books for Startups
 - [Move Fast and Fix Things](https://www.oreilly.com/library/view/move-fast-and/9781647822880/Text/title001.xhtml) - 'Move Fast and Fix Things' by Frances Frei and Anne Morriss is a guide for leaders aiming to solve problems quickly while maintaining trust and excellence. The book challenges the notion that businesses must choose between innovation and workforce care, offering strategies for creating a culture of trust and empowerment. ([Read more](/details/move-fast-and-fix-things.md)) `problem-solving` `trust` `empowerment`
 - [Primal Leadership](https://www.slideshare.net/slideshow/primal-leadership-12200973/12200973) - 'Primal Leadership: Unleashing the Power of Emotional Intelligence' by Daniel Goleman, Richard E. Boyatzis, and Annie McKee highlights the importance of emotionally intelligent leadership. The book emphasizes empathy, collaboration, and motivation as crucial elements for effective leadership in today's world. ([Read more](/details/primal-leadership.md)) `emotional-intelligence` `leadership` `collaboration`
 - [Radical Candor](https://www.radicalcandor.com/the-book/) - "Radical Candor" by Kim Scott is a guide to effective communication in the workplace. It emphasizes the importance of honesty and constructive feedback, making it a valuable resource for startup leaders aiming to foster a positive team environment. ([Read more](/details/radical-candor.md)) `communication` `feedback` `team-environment`
+- [Reboot](https://basic-venture.com/titles/julia-austin/after-the-idea/9781541705272/) - Written by Jerry Colonna, this book combines leadership insights with personal stories, focusing on how childhood experiences shape leadership abilities. It's a unique take on leadership and personal growth for startup founders. ([Read more](/details/reboot.md)) `leadership` `personal-growth` `self-awareness`
 - [Start With Why](https://startwithwhy.com/) - "Start With Why" by Simon Sinek explores the importance of understanding your core purpose in business. While not exclusively a startup book, it provides valuable insights into building a loyal customer base by focusing on the 'why' behind your business. ([Read more](/details/start-with-why.md)) `purpose` `customer-loyalty` `inspiration`
 - [Startup CEO](https://www.scribd.com/document/875755845/Leadership-Framework-for-Startup-CEOs) - Matt Blumberg's 'Startup CEO' serves as a comprehensive guide for first-time founder CEOs, covering a wide range of topics from hiring and firing to managing board meetings. ([Read more](/details/startup-ceo.md)) `CEO` `leadership` `management`
 - [The Art of Principled Entrepreneurship](https://www.catholicprofiles.org/post/the-art-of-principled-entrepreneurship-creating-enduring-value) - "The Art of Principled Entrepreneurship" by Andreas Widmer outlines a model of people-centered values with practical applications. ([Read more](/details/the-art-of-principled-entrepreneurship.md)) `values` `entrepreneurship` `principles`
@@ -176,7 +183,9 @@ A curated list of books for Startups
 ## Social Entrepreneurship
 
 - [Build the Damn Thing](https://kathrynfinney.substack.com/podcast) - "Build the Damn Thing: How to Start a Successful Business If You're Not a Rich White Guy" by Kathryn Finney is a Wall Street Journal bestseller that provides a guide for entrepreneurs navigating a business world dominated by the privileged. It offers practical advice on business plans, team growth, and product development, empowering underrepresented entrepreneurs. ([Read more](/details/build-the-damn-thing.md)) `empowerment` `business-plans` `team-growth`
+- [Startup Communities](https://chrisneumann.com/archives/10-books-every-founder-should-read) - *Startup Communities* by Brad Feld explores how to build entrepreneurial ecosystems, using Boulder, CO as a case study. It provides insights into the resources available to founders, especially in smaller or emerging tech hubs. ([Read more](/details/startup-communities.md)) `entrepreneurship` `ecosystem` `community-building`
 - [The Greater Good](https://www.libraryjournal.com/review/the-greater-good) - "The Greater Good: Social Entrepreneurship for Everyday People Who Want to Change the World" by Madeleine Shaw provides insights for social entrepreneurs, especially women and those traditionally excluded from mainstream business. The book draws from Shaw's experiences and other successful social entrepreneurs to inspire readers to create impactful ventures. ([Read more](/details/the-greater-good.md)) `social-impact` `entrepreneurship` `women`
+- [The Startup Community Way](https://startupcommunityway.com/) - *The Startup Community Way* by Brad Feld and Ian Hathaway is a follow-up to *Startup Communities*. It revisits the lessons learned from building entrepreneurial ecosystems and compares them with experiences from emerging ecosystems worldwide. ([Read more](/details/the-startup-community-way.md)) `ecosystem` `global` `community-building`
 
 ## Startup Life & Culture
 
