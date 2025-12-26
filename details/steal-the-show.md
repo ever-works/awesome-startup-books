@@ -1,26 +1,42 @@
-## Steal the Show
+---
+slug: steal-the-show
+title: Steal the Show
+category: biographies
+featured: false
+images:
+  - https://m.media-amazon.com/images/I/41kOKfLPrNL._SX331_BO1,204,203,200_.jpg
+  - https://m.media-amazon.com/images/I/51wF5e6UG9L.jpg
+source_url: https://www.marketingforowners.com/books/
+---
 
-**Category:** Others  
-**Type:** Book (Public speaking & high‑stakes communication)  
-**Author:** Michael Port  
-**Brand:** Amazon  
-**Source:** [LinkedIn – Tips for Founders: 5 Lessons from 12 Essential Books](https://www.linkedin.com/pulse/tips-founders-5-lessons-from-12-essential-books-sam-johnston)
+## Overview
 
-### Overview
-“Steal the Show” is a practical guide to high‑stakes communication and public speaking. It is recommended for startup founders and leaders who need to craft and deliver compelling pitches, investor presentations, and public talks that win buy‑in and help drive deals and strategic outcomes.
+**Steal the Show** is a communication and performance book by Michael Port focused on high‑stakes presentations, pitches, and public speaking. It is especially useful for startup founders and business leaders who need to persuade investors, sell to customers, and motivate teams under pressure.
 
-### Features
-- Focuses on **high‑stakes communication** situations where outcomes (funding, deals, partnerships, hiring) depend heavily on performance.
-- Provides **practical presentation skills** specifically useful for startup founders and business leaders.
-- Helps readers **design and structure compelling pitches** for investors, customers, and stakeholders.
-- Offers guidance on **delivering investor presentations** that clearly communicate value, vision, and traction.
-- Emphasizes techniques for **public talks** (e.g., conference talks, demo days, panels) that capture attention and hold audience interest.
-- Aims to help readers **win buy‑in** from decision‑makers through clear messaging and persuasive delivery.
-- Oriented toward **deal-making contexts**, supporting founders in communicating in ways that facilitate agreements and investments.
+## Key Topics
 
-### Images
-- ![Cover](https://m.media-amazon.com/images/I/41kOKfLPrNL._SY445_SX342_.jpg)
-- ![Alternate image](https://m.media-amazon.com/images/I/51fENvKy2OL.jpg)
+- Structuring persuasive presentations and pitches
+- Delivering clear, compelling messages under pressure
+- Using performance techniques to improve presence and confidence
+- Communicating more effectively with investors, customers, and teams
 
-### Pricing
-- No pricing or plan information is provided in the source content.
+## Features
+
+- Practical guidance on preparing for high‑stakes talks and meetings
+- Techniques for organizing your content into a persuasive structure
+- Strategies for managing nerves and performing confidently
+- Focus on real‑world business scenarios such as:
+  - Investor pitches
+  - Sales presentations
+  - Team meetings and leadership communications
+- Emphasis on combining strong content with strong delivery
+
+## Audience
+
+- Startup founders and entrepreneurs
+- Business owners and executives
+- Professionals who present, pitch, or speak in high‑pressure situations
+
+## Pricing
+
+Pricing information is not provided on the source page; the book is available through standard book retailers (e.g., Amazon, other online booksellers).
