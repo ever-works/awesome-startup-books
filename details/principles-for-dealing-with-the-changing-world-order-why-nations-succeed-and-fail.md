@@ -1,0 +1,5 @@
+# Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail
+
+A macroeconomic and geopolitical analysis by Ray Dalio that explains how and why empires rise and fall, using historical cycles to understand current global shifts. While not a startup how‑to book, it’s valuable for founders and investors who need to think in long time horizons about economic cycles, debt, inflation, reserve currencies, and changing global power structures that can impact markets, fundraising climates, and long‑term strategy.
+
+[https://www.ekmhinnovators.com/ekmh-innovators-blog-beta/entrepreneurs-and-innovators-2025-guide-to-exceptional-reading-viewing-and-listening](https://www.ekmhinnovators.com/ekmh-innovators-blog-beta/entrepreneurs-and-innovators-2025-guide-to-exceptional-reading-viewing-and-listening)

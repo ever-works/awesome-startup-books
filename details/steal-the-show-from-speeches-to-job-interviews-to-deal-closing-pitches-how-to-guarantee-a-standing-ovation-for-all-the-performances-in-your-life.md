@@ -1,0 +1,5 @@
+# Steal the Show: From Speeches to Job Interviews to Deal-Closing Pitches, How to Guarantee a Standing Ovation for All the Performances in Your Life
+
+Public speaking and high-stakes communication guide by Michael Port that helps startup founders and professionals master pitches, demos, and persuasive presentations—crucial skills for fundraising, sales, and recruiting in early-stage companies.
+
+[https://www.yumpu.com/en/document/view/67115315/free-read-pdf-steal-the-show-from-speeches-to-job-interviews-to-deal-closing-pitches-how-to-guarantee-a-standing-ovation-for-all-the-performances-in-your-life](https://www.yumpu.com/en/document/view/67115315/free-read-pdf-steal-the-show-from-speeches-to-job-interviews-to-deal-closing-pitches-how-to-guarantee-a-standing-ovation-for-all-the-performances-in-your-life)

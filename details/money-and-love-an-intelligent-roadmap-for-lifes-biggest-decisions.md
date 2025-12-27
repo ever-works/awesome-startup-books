@@ -1,0 +1,5 @@
+# Money and Love: An Intelligent Roadmap for Life’s Biggest Decisions
+
+A practical guide by labor economist Myra Strober and social innovation leader Abby Davisson that provides a step‑by‑step 5Cs framework for making major life decisions by jointly considering money and relationships. It focuses on work–life balance, financial choices, and partnership dynamics, helping readers navigate career moves, family planning, and long‑term security with both head and heart. While not startup‑specific, it is relevant for founders navigating high‑stakes personal and financial decisions alongside building a company.
+
+[https://www.penguinrandomhouse.com/books/691061/money-and-love-by-myra-strober-and-abby-davisson/](https://www.penguinrandomhouse.com/books/691061/money-and-love-by-myra-strober-and-abby-davisson/)
