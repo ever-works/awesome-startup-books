@@ -1,42 +1,28 @@
-# Sonic the Hedgehog, Vol. 1: Fallout!
+### Sonic the Hedgehog, Vol. 1: Fallout!
 
 **Category:** Others  
-**Tags:** non-business  
-**Brand/Publisher:** IDW Publishing
+**Tags:** fiction, non-business  
+**Brand/Publisher:** IDW Publishing  
+**Slug:** `sonic-the-hedgehog-vol-1-fallout`
 
-> Note: This title is an entertainment comic book volume in the Sonic the Hedgehog series and is **not** related to startup founding, business, or entrepreneurship.
-
----
-
-## Overview
-
-*Sonic the Hedgehog, Vol. 1: Fallout!* is a collected comic volume in the *Sonic the Hedgehog* franchise, published by IDW Publishing. It is a fictional entertainment title featuring characters and stories from the Sonic universe.
-
-The directory entry notes that, as a non-business comic, it does not belong in a curated list of must-read startup or entrepreneurship books.
+This item is a comic book volume in the Sonic the Hedgehog franchise. It is an entertainment title and not a business, leadership, or entrepreneurship resource, so it is not suited for a directory focused on must‑read books for startup founders.
 
 ---
 
-## Features
-
-- Comic book / graphic novel format
-- Part of the *Sonic the Hedgehog* comic series
-- Published by IDW Publishing
-- Classified as an entertainment title
-- Tagged as **non-business** (not instructional or professional-development content)
-- Explicitly identified as **not relevant** to:
-  - Startup founding
-  - Entrepreneurship
-  - Business strategy or management
+#### Features
+- Format: Comic book / graphic novel volume
+- Franchise: Sonic the Hedgehog
+- Primary purpose: Entertainment / fiction reading
+- Thematic focus: Action/adventure in a licensed video game universe
+- Relevance to startups/entrepreneurship: None (not a business or startup title)
 
 ---
 
-## Pricing
-
+#### Pricing
 No pricing information is provided in the available content.
 
 ---
 
-## Source
-
-Original listing/source URL:  
-https://www.ameiteahouse.com/blogs/amei-tea-house-blog/the-stunning-teahouses-and-twisting-alleyways-of-jiufen-taiwan-article-from-forbes-com?comment=126424514614&page=188&srsltid=AfmBOoqilY6vSD-yeo--ytq4AhgYAoZbH_MyLLaadpbMVG7LjQ4UmPip
+#### Source
+- Catalog: Penguin Young Readers Group Children’s Backlist Highlights 2022  
+- External reference: [Publisher catalog PDF](https://prhinternationalsales.com/wp-content/uploads/2022/08/PYRG-2022-Backlist-Catalog.pdf) (listing context only; detailed book metadata not included in the excerpt).

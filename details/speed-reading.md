@@ -1,5 +1,5 @@
 # Speed Reading
 
-A guide to improving reading speed and comprehension, which can help startup founders process large volumes of information and learn faster across business, technology, and market domains.
+Guide to reading faster and more efficiently; while not startup-specific, it can help founders consume large volumes of information more quickly and effectively.
 
-[https://www.penguinrandomhouse.com/books/324504/speed-reading-by-peter-kump/](https://www.penguinrandomhouse.com/books/324504/speed-reading-by-peter-kump/)
+[https://www.penguinrandomhouse.com/books/184675/speed-reading-by-michael-f-rated/](https://www.penguinrandomhouse.com/books/184675/speed-reading-by-michael-f-rated/)
