@@ -1,39 +1,74 @@
-### Value Proposition Design
+# Value Proposition Design
 
-**Authors:** Alexander Osterwalder, Yves Pigneur
+**Category:** Customer Development  
+**Brand/Publisher:** Wiley  
+**Format:** Book with online companion resources  
+**Primary Topics:** Value Proposition, Value Proposition Canvas, Product–Market Fit, Design Thinking
 
-**Category:** Business Strategy
+## Overview
 
-**Tags:** Value Proposition, Design, Strategy
+*Value Proposition Design* is a practical, visually structured handbook that helps founders and product teams systematically design, test, and refine value propositions that customers actually want. It builds on the Business Model Canvas framework and focuses on achieving product–market fit by aligning products and services with customer needs and desires.
 
-**Description:**
-"Value Proposition Design" is a comprehensive guide by Alexander Osterwalder and Yves Pigneur that provides practical insights into crafting compelling value propositions—a crucial skill for startup founders and business strategists alike. Building on the concepts from "Business Model Generation," this book offers tools and frameworks to design, test, and manage products and services that truly resonate with customers.
+## Key Concepts
 
-**Source URL:** [Goodreads - Value Proposition Design](https://www.goodreads.com/book/show/22337524-value-proposition-design)
+- **Value Proposition Design** – A structured approach to creating offerings customers are willing to buy.
+- **Value Proposition Canvas** – A visual tool used to design, test, and manage value propositions.
+- **Integration with Business Model Canvas** – Positions value propositions within a broader business model.
+- **Product–Market Fit** – Emphasis on reducing guesswork and validating that a product matches real customer problems and jobs-to-be-done.
 
----
+## Who It’s For
 
-### Features
-- **Value Proposition Canvas:** Learn how to use this tool to design and refine your value propositions effectively.
-- **Integration with Business Model Canvas:** Seamlessly integrate your value propositions into scalable and profitable business models.
-- **Practical Exercises and Workshops:** Apply the concepts immediately through hands-on exercises and workshop suggestions.
-- **Online Access:** Gain access to Strategyzer.com for interactive exercises, peer learning, and downloadable resources.
-- **Guidance for Teams:** Enhance team alignment and productivity in product meetings.
-- **Understanding Value Creation:** Identify and leverage patterns of value creation to avoid investing in unviable ideas.
+- Startup founders and entrepreneurs
+- Product managers and product teams
+- Innovation and strategy teams in established organizations
+- Anyone dissatisfied with intuition-only product decisions or failed product launches
 
----
+## Features
 
-### Additional Information
-- **First Published:** September 16, 2013
-- **Pages:** 290
+### Book Content & Approach
 
----
+- **Highly visual format**: Uses clear, graphical layouts similar to *Business Model Generation* to explain tools and processes.
+- **Step-by-step processes**: Guides you through designing, testing, creating, and managing value propositions.
+- **Pattern recognition**: Helps you understand common patterns of successful value propositions.
+- **Customer-centric focus**: Encourages getting closer to customers and understanding their needs, pains, and gains.
+- **Hypothesis-driven design**: Replaces hunches and intuition with structured experimentation and learning.
+- **Application across company sizes**: Methods are applicable to both startups and large organizations.
+- **Companion to Business Model Canvas**: Designed to be used alongside the Business Model Canvas to embed value propositions in viable business models.
 
-### About the Authors
-**Alexander Osterwalder** is a renowned strategy and innovation expert, co-inventor of the Business Model Canvas and Value Proposition Canvas, and co-founder of Strategyzer. His work focuses on simplifying strategy development and enabling organizations to manage strategy, growth, and transformation effectively.
+### Online Companion (VPD Online Companion)
 
-**Yves Pigneur** is a co-author of several influential books on business strategy and innovation, collaborating closely with Alexander Osterwalder to develop practical tools for entrepreneurs and business leaders.
+Accessed via Strategyzer.com, providing additional materials that extend the book:
 
----
+- **Videos**
+  - Business Model Canvas explanation video
+  - Owlet case study video
 
-For those seeking to navigate the complexities of customer value creation and product development, "Value Proposition Design" is an essential resource that equips readers with the knowledge and tools to succeed in a competitive business landscape.
+- **Downloadable PDFs & Toolkits** (by language)
+  - English companion pack (EN.zip)
+  - German companion pack (DE.zip)
+  - French companion pack (FR.zip)
+  - Italian companion pack (IT.zip)
+  - Dutch companion pack (NL.zip)
+  - Portuguese companion pack (PT.zip)
+
+- **Practical resources**
+  - PDF tools and canvases
+  - Checklists to guide application
+  - Materials to assess and improve your work
+  - Opportunities to learn from peers via the Strategyzer platform
+
+### Related Materials
+
+- Optional workshop materials available via third-party provider (e.g., Stattys) to support in-person or team workshops using the tools.
+
+## Pricing
+
+The provided content does not list specific pricing or plans for the book or companion resources. Users are directed to external purchase or checkout pages for current pricing.
+
+## Tags
+
+- Value Proposition  
+- Product–Market Fit  
+- Design Thinking  
+- Value Proposition Canvas  
+- Business Model Canvas
