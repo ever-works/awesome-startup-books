@@ -1,42 +1,51 @@
-## Hacking Growth
+# Hacking Growth
 
-**Category:** Biographies  
-**Brand/Publisher:** crown-business  
-**Format:** Book  
+**Type:** Book  
+**Authors:** Sean Ellis, Morgan Brown  
+**Publisher/Imprint:** Crown Business  
+**Category:** Growth strategy / startup marketing  
 **Slug:** hacking-growth
 
-### Overview
-"Hacking Growth" is a growth strategy book by Sean Ellis and Morgan Brown. It explains how modern high‑growth startups systematically run experiments, optimize user journeys, and organize teams to drive sustainable growth. The book is aimed at startup founders and teams who want a structured, data‑driven approach to scaling their product and business.
+## Overview
 
-### Features
-- **Focus on high‑growth startups**  
-  Uses companies like Dropbox and Airbnb as examples of systematic, experiment‑driven growth.
+“Hacking Growth” explains the modern growth hacking methodology used by high-growth startups. Sean Ellis (who coined the term “growth hacking”) and Morgan Brown outline how companies like Airbnb, Facebook, Uber, and Dropbox systematically experiment, optimize user journeys, and organize teams to accelerate growth. The book is aimed at startup founders and teams seeking a structured, data-driven approach to scaling.
 
-- **End‑to‑end growth funnel coverage**  
-  - User acquisition  
-  - User activation (getting new users to first value)  
-  - User retention (keeping users engaged over time)  
-  - Monetization (turning usage into revenue)
+## Features
 
-- **Experimentation methodology**  
-  Describes how to design, prioritize, and run iterative experiments to improve key metrics at each funnel stage.
+- **Complete breakdown of the growth hacking methodology**  
+  - Explains growth hacking as a repeatable, experiment-driven process rather than one-off tactics.  
+  - Breaks the overall method into accessible, step-by-step parts.
 
-- **Funnel optimization**  
-  Explains how to analyze and improve each step of the customer journey using data and testing.
+- **Actionable framework for startup growth**  
+  - Provides a practical, tactical guide that companies can adapt to their own context.  
+  - Focuses on systematic experimentation and iteration rather than traditional long-cycle marketing campaigns.
 
-- **Cross‑functional growth teams**  
-  Shows how to structure and operate dedicated growth teams that combine skills from product, marketing, data, and engineering.
+- **Focus on the entire growth funnel**  
+  - Covers user acquisition, activation, retention, and monetization as connected stages.  
+  - Emphasizes optimizing funnels end-to-end instead of only top-of-funnel traffic.
 
-- **Data‑driven decision making**  
-  Promotes using quantitative data and measurable outcomes as the basis for growth decisions.
+- **Data-driven decision-making**  
+  - Encourages using metrics, testing, and experimentation to guide product and marketing decisions.  
+  - Shows how to use data to prioritize growth opportunities and validate ideas.
 
-- **Practical playbook orientation**  
-  Intended as a hands‑on guide for founders and growth practitioners to implement growth processes inside their startups.
+- **Cross-functional growth teams**  
+  - Describes how to structure and run dedicated growth teams that span marketing, product, engineering, and data.  
+  - Explains collaboration patterns and processes that support continuous testing.
 
-### Target Audience
-- Startup founders and co‑founders  
-- Early‑stage growth teams  
-- Product, marketing, and growth professionals seeking a structured growth framework
+- **Real-world company case examples**  
+  - Shares stories and examples from well-known high-growth companies such as Airbnb, Facebook, and Uber.  
+  - Illustrates how these companies applied growth hacking principles to achieve scale.
 
-### Pricing
-Pricing and editions are not provided in the available content. For current prices, check major book retailers or the publisher (Crown Business).
+- **Toolkit-style guidance**  
+  - Positions the book as a practical toolkit companies can use to increase customer base and market share.  
+  - Offers concrete ideas and patterns that can be adapted to different startup stages and industries.
+
+## Ideal For
+
+- Startup founders and early team members.  
+- Marketers and product managers focused on growth.  
+- Anyone seeking a structured introduction to growth hacking methods.
+
+## Pricing
+
+- Not specified in the provided content. (Standard retail book pricing applies via booksellers.)

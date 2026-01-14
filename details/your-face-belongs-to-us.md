@@ -1,52 +1,37 @@
-# Your Face Belongs to Us
+---
+title: "Your Face Belongs to Us"
+slug: "your-face-belongs-to-us"
+brand: "Penguin Random House"
+brand_logo: "https://images.randomhouse.com/logo/open-graph-logo.png"
+category: "Biographies & Nonfiction"
+featured: false
+source_url: "https://www.penguinrandomhouse.com/books/691145/your-face-belongs-to-us-by-kashmir-hill/"
+images:
+  - "https://images.randomhouse.com/cover/700jpg/9780593448564"
+  - "https://images.randomhouse.com/cover/300jpg/9780593448564"
 
-- **Category:** Biographies & Nonfiction
-- **Author:** Kashmir Hill  
-- **Publisher:** Penguin Random House  
-- **Format:** Investigative non-fiction book  
-- **Slug:** `your-face-belongs-to-us`
+summary: |
+  "Your Face Belongs to Us" is an investigative non-fiction book by journalist Kashmir Hill that explores a secretive AI-powered facial recognition startup and the broader implications of this technology for privacy, surveillance, and civil liberties. While it follows the story of a startup, its focus is on tech journalism, ethics, and the societal impact of facial recognition rather than on startup-building advice.
 
-## Overview
+features:
+  - In-depth investigation of a real-world AI facial recognition startup and its origins.
+  - Examination of how large-scale scraping and analysis of images enables powerful identification tools.
+  - Exploration of the impact of facial recognition on privacy, anonymity, and everyday life.
+  - Discussion of surveillance risks for ordinary citizens, activists, and vulnerable groups.
+  - Consideration of law enforcement and government use of facial recognition technologies.
+  - Ethical analysis of unregulated or lightly regulated deployment of AI in public and private sectors.
+  - Reporting on the tension between technological innovation, public safety claims, and civil liberties.
+  - Contextualization of facial recognition within broader debates on data rights and digital consent.
+  - Narrative-driven tech journalism, blending character-focused storytelling with policy and legal issues.
+  - Relevant background for readers interested in technology governance, AI ethics, and digital surveillance.
 
-*Your Face Belongs to Us* is an investigative non-fiction work that examines a secretive, AI-powered facial recognition startup and its far‑reaching implications for privacy, surveillance, and civil liberties. Rather than a startup or business how‑to guide, it is a piece of tech journalism focused on ethics, power, and the social consequences of emerging technologies.
+use_cases:
+  - For readers who want to understand the real-world power and risks of AI-powered facial recognition.
+  - For technologists and policymakers seeking narrative context around privacy, surveillance, and regulation debates.
+  - For book clubs discussing technology ethics, civil liberties, and the social impact of startups.
+  - For readers of investigative journalism and narrative nonfiction about technology and society.
+  - As a contextual, peripheral read for startup founders interested in the unintended consequences of tech products, particularly in security, data, and AI.
 
-## Features
-
-- **Investigative Tech Journalism**  
-  Explores how a little‑known facial recognition startup built and deployed its technology, including the people, decisions, and systems behind it.
-
-- **Focus on AI and Facial Recognition**  
-  Centers on AI‑driven facial recognition: how it works in practice, where it is used, and what makes it uniquely powerful and intrusive.
-
-- **Privacy and Surveillance Themes**  
-  Examines the erosion of personal privacy in a world where faces can be identified and tracked at scale, and the broader shift toward pervasive surveillance.
-
-- **Ethical and Legal Questions**  
-  Raises issues around consent, data use, government and law‑enforcement access, and the adequacy (or lack) of current regulations.
-
-- **Case Study of a Startup**  
-  Uses a secretive startup as the narrative lens—covering its founding, rapid expansion, and controversies—while remaining focused on societal impact rather than offering startup advice.
-
-- **Relevance to Technology, Law, and Policy**  
-  Useful context for readers interested in technology ethics, civil liberties, digital rights, and the policy debates surrounding AI.
-
-- **Journalistic Narrative Style**  
-  Written as a reported narrative, blending storytelling with documented research rather than as a technical manual or business playbook.
-
-## Ideal Readers
-
-- Readers interested in surveillance, privacy, and digital rights
-- Those following the social and ethical impacts of AI
-- Nonfiction readers who enjoy investigative reporting about technology and power
-
-## Pricing
-
-- Pricing and specific editions (hardcover, paperback, ebook, audio) are not specified in the provided content. For current prices and formats, see the publisher’s product page or major book retailers.
-
-## Media & Assets
-
-- **Cover Images:**  
-  - https://images.randomhouse.com/cover/700jpg/9780593448564  
-  - https://images.randomhouse.com/cover/300jpg/9780593448564
-- **Publisher Logo:**  
-  - https://images.randomhouse.com/logo/open-graph-logo.png
+pricing: |
+  Pricing varies by format (hardcover, paperback, ebook, audiobook) and retailer. See the publisher or bookseller site for current prices.
+---

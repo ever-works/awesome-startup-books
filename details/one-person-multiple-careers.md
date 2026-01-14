@@ -1,29 +1,59 @@
 # One Person, Multiple Careers
 
+**Category:** Biographies / Career & Work Design  
 **Author:** Marci Alboher  
 **Format:** Non-fiction book  
-**Category:** Biographies / Career & Work Life  
-**Publisher / Imprint:** Warner Business Books (Hachette Book Group)
+**Publisher / Imprint:** Warner Business Books (Hachette Book Group)  
+**Brand:** warner-business-books-hachette-book-group  
+**Slug:** `one-person-multiple-careers`
+
+![Hachette Book Group](https://www.hachettebookgroup.com/wp-content/themes/hachette/library/images/hachette-logo.png)
 
 ## Overview
-“One Person, Multiple Careers” examines how professionals can intentionally design and manage a work life built around multiple careers or “slashes” (e.g., lawyer/consultant/writer). It is especially relevant for people who combine traditional employment, side projects, consulting, and entrepreneurial ventures—such as startup founders who are juggling several roles at once.
+
+“One Person, Multiple Careers” explores how professionals can intentionally design and manage multi-hyphenate or “slash” careers (e.g., *lawyer/consultant/writer*). It is aimed at people who combine several roles or income streams, and is especially relevant for startup founders who often juggle side projects, consulting, and early-stage ventures alongside other work.
 
 ## Features
-- **Focus on “slash” careers**: Explores the concept of holding multiple distinct professional identities at the same time (e.g., teacher/coach/artist), rather than following a single linear career path.
-- **Frameworks for multi-career design**: Provides structures and mental models for planning and integrating several careers in parallel, including how to decide what to combine and how to prioritize.
-- **Case studies and real-world examples**: Shares stories of individuals successfully managing multiple careers, illustrating different ways to structure a multi-track work life.
-- **Relevance for founders and entrepreneurs**: Addresses challenges common to startup founders—such as balancing a day job with a new venture, consulting alongside building a product, or managing multiple roles within an early-stage company.
-- **Guidance on identity and positioning**: Discusses how to present and explain multiple professional identities to employers, clients, collaborators, and networks.
-- **Strategies for opportunity-building**: Emphasizes creating a flexible, opportunity-rich career setup that can adapt as interests and markets change.
-- **Support for side projects and transitions**: Useful for people testing new fields, transitioning careers gradually, or keeping multiple income streams active.
+
+- **Focus on “slash” careers**  
+  Explains the concept of holding multiple professional identities at once (e.g., corporate employee/entrepreneur/creator) rather than following a single, linear career path.
+
+- **Frameworks for managing multiple careers**  
+  Provides conceptual tools and structures to help readers:
+  - Plan and balance several roles or projects in parallel.
+  - Decide which opportunities to pursue or drop.  
+  - Integrate short-term gigs with long-term career direction.
+
+- **Case studies and real-life examples**  
+  Draws on stories of people successfully combining more than one career, illustrating:
+  - How they discovered or designed their mix of work.  
+  - How they navigated time, identity, and financial constraints.
+
+- **Relevance for startup founders and side-project builders**  
+  Especially useful for:
+  - Founders running a startup while consulting or freelancing.  
+  - Professionals testing early-stage ventures alongside full-time employment.  
+  - People who want to preserve optionality and experiment with different paths.
+
+- **Designing a flexible, opportunity-rich work life**  
+  Offers guidance on building a career portfolio that:
+  - Can adapt to changing interests and market conditions.  
+  - Creates multiple sources of income and opportunity.  
+  - Reflects personal values, skills, and curiosities.
+
+- **Identity and narrative building**  
+  Addresses how to talk about and present yourself when you do several things, including:
+  - Crafting an understandable professional story.  
+  - Handling others’ expectations about specialization vs. plurality.
+
+- **Practical orientation (non-theoretical)**  
+  Although it’s not exclusively a startup or business manual, the book is written as applied guidance rather than abstract theory, grounded in lived experience.
+
+## Images
+
+- Primary cover: https://images.hachettebookgroup.com/covers/9780446500447/
+- Alternate cover: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780446500430.jpg
 
 ## Pricing
-Pricing and specific formats (hardcover, paperback, ebook, audiobook) are not specified in the provided content. For up-to-date pricing, formats, and purchase options, refer to the publisher or bookseller linked at the source URL.
 
-## Additional Details
-- **Source URL:** https://www.hachettebookgroup.com/titles/marci-alboher/one-person-multiple-careers/9780446500430/
-- **Brand / Publisher:** Warner Business Books – Hachette Book Group
-- **Images:**
-  - Cover image 1: https://images.hachettebookgroup.com/covers/9780446500447/
-  - Cover image 2: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780446500430.jpg
-- **Slug (for directories or URLs):** `one-person-multiple-careers`
+Pricing information is not provided in the available content. Refer to the publisher or booksellers for up-to-date pricing and formats.

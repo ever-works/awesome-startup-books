@@ -2,75 +2,59 @@
 
 **Category:** Biographies  
 **Brand:** pear-press  
-**Author:** John Medina  
-**Type:** Popular science book (with companion tutorials)
+**Official site:** https://brainrules.net/the-rules/
 
-## Overview
-“Brain Rules” is a popular science book by molecular biologist John Medina that explains 12 core principles about how the brain works. It focuses on practical implications for attention, memory, learning, sleep, stress, and performance. The website offers illustrated tutorials, charts, and videos that reinforce the key concepts in each chapter.
+Popular science book by molecular biologist John Medina that distills 12 research-backed principles about how the brain works. It focuses on attention, memory, sleep, stress, and other factors that influence learning, performance, and work habits—useful for founders, product leaders, and anyone designing better ways to learn and work.
 
 ## Features
 
-### Core Brain Rules Covered
+### Core Principles ("Brain Rules")
+Each rule is presented in the book and reinforced online through short illustrated tutorials, charts, and video explanations.
+
 1. **Exercise – Exercise boosts brain power**  
-   - Explores how physical activity improves cognitive function and overall brain performance.
+   Explores how physical activity improves brain performance and supports learning and cognition.
 
 2. **Survival – The human brain evolved, too**  
-   - Examines the evolutionary background of the human brain and how it shapes modern behavior and cognition.
+   Discusses how the brain’s evolution shapes how we think, respond, and learn today.
 
 3. **Wiring – Every brain is wired differently**  
-   - Describes individual differences in brain wiring and their impact on learning and thinking styles.
+   Covers individual differences in brain wiring and implications for learning and work.
 
-4. **Attention – We don’t pay attention to boring things**  
-   - Explains how attention works, what captures it, and why engaging content and environments matter.
+4. **Attention – We don't pay attention to boring things**  
+   Explains how attention works, what captures it, and what causes us to lose it.
 
 5. **Memory (Short-Term) – Repeat to remember**  
-   - Covers how short-term/working memory operates and the role of repetition in retaining information.
+   Focuses on how short‑term/working memory functions and how repetition strengthens recall.
 
 6. **Memory (Long-Term) – Remember to repeat**  
-   - Focuses on how memories move into long-term storage and how spaced repetition helps consolidation.
+   Details strategies for consolidating information into long‑term memory through spaced repetition.
 
 7. **Sleep – Sleep well, think well**  
-   - Details the relationship between sleep and cognitive performance, learning, and problem-solving.
+   Connects sleep quality and patterns to cognitive performance, learning, and decision-making.
 
-8. **Stress – Stressed brains don’t learn the same way**  
-   - Looks at how stress affects learning, memory, and decision-making.
+8. **Stress – Stressed brains don't learn the same way**  
+   Describes how stress affects the brain, learning, and productivity.
 
 9. **Sensory Integration – Stimulate more of the senses**  
-   - Explains how multi-sensory experiences can improve understanding and recall.
+   Shows how engaging multiple senses can improve understanding and memory.
 
 10. **Vision – Vision trumps all other senses**  
-    - Highlights the dominant role of vision in processing information and forming memories.
+    Explains the dominance of visual processing and how visuals support learning.
 
 11. **Music – Study or listen to boost cognition**  
-    - Discusses potential cognitive benefits of engaging with music while studying or working.
+    Looks at how music relates to attention, learning, and cognitive performance.
 
 12. **Gender – Male and female brains are different**  
-    - Describes observed differences between male and female brains and their implications.
+    Reviews research on differences in male and female brains and their potential implications.
 
 13. **Exploration – We are powerful and natural explorers**  
-    - Emphasizes curiosity-driven learning and the brain’s natural inclination to explore and experiment.
+    Highlights curiosity, experimentation, and exploration as core to how the brain learns.
 
-> Note: The site presents 12 primary “rules” as framed in the book; some sections (e.g., short-term vs. long-term memory) are separated for clarity, and exploration is also highlighted as a core theme.
-
-### Learning Resources & Format
-- **Illustrated tutorials** aligned with each rule.  
-- **Charts and visuals** that summarize core concepts.  
-- **Embedded videos** (hosted on Vimeo) corresponding to each rule (e.g., Exercise, Survival, Wiring, Attention, Memory, Sleep, Stress, Sensory Integration, Vision, Gender, Exploration).  
-- **Music section** with dedicated content on music and cognition.
-
-### Intended Use Cases
-- Improving personal **work habits** and productivity.
-- Enhancing **learning and memory** strategies.  
-- Designing better **workplaces, teams, and environments** based on how the brain actually functions.  
-- Supporting **founders, product leaders, and teams** who want evidence-informed approaches to performance and effectiveness.
-
-## Media & Assets
-- **Book cover image:** Provided on site.  
-- **Brand logo:** Brain Rules / pear-press logo.  
-- **Video links:** Individual Vimeo links for each rule.
+### Companion Learning Materials
+- **Illustrated tutorials** for each rule (icons, diagrams, and visual explanations)
+- **Short videos** (linked via Vimeo and site pages) that walk through key concepts of each rule
+- **Chapter-linked structure**: tutorials are intended to be used after reading the corresponding book chapter to reinforce learning
 
 ## Pricing
-- No pricing information is provided in the supplied content. For purchase options or formats (print, digital, etc.), refer to the publisher or retailer websites.
 
-## Official Source
-- More details and rule breakdowns: https://brainrules.net/the-rules/
+The provided content does not specify any pricing or editions for the book. For purchase options and pricing, see the publisher or bookseller sites linked from the official page.

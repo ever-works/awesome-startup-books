@@ -1,27 +1,36 @@
-## El pequeño libro rojo de las ventas
+# El pequeño libro rojo de las ventas
 
-**Category:** Biographies  
-**Format:** Book (Spanish edition)  
-**Original Author:** Jeffrey Gitomer
+Spanish edition of Jeffrey Gitomer’s classic sales handbook, focused on practical techniques for selling more effectively.
 
-### Overview
-“El pequeño libro rojo de las ventas” is the Spanish edition of Jeffrey Gitomer’s well‑known sales handbook. It focuses on core selling skills that are broadly applicable beyond traditional sales roles, particularly for founders and early‑stage teams who must constantly sell their product, vision, and company.
+## Basic Info
+- **Type:** Ebook
+- **Author:** Jeffrey Gitomer
+- **Language:** Spanish
+- **ISBN:** 9786280004143
+- **Series:** El pequeño libro
+- **Publisher:** Alienta Editorial
+- **Release date:** 09 October 2018
+- **Format:** Digital (ebook)
 
-### Features
-- **Core sales principles** distilled into a concise handbook format.
-- **Prospecting techniques** to identify and approach potential customers.
-- **Deal‑closing strategies** aimed at moving prospects from interest to commitment.
-- **Customer relationship building** guidance to foster long‑term loyalty and repeat business.
-- **Founder‑oriented applicability**: emphasizes skills useful for entrepreneurs who need to pitch, negotiate, and sell in early stages.
-- **Spanish‑language edition** of a classic English‑language sales text, making the material accessible to Spanish‑speaking readers.
+## Description
+A concise sales guide that distills essential principles and tactics for increasing sales. Although not specific to startups, it focuses on prospecting, closing deals, and building strong customer relationships—skills that are especially useful for founders and professionals who must sell products, ideas, and long‑term visions.
 
-### Use Cases
-- Founders and startup teams improving their sales and pitching skills.
-- Sales professionals seeking a concise refresher on fundamentals.
-- Spanish‑speaking readers looking for a practical, principle‑driven sales handbook.
+## Features
+- Spanish translation of a well‑known sales handbook by Jeffrey Gitomer.
+- Organized around **“12.5 big secrets”** aimed at helping readers sell more effectively.
+- Emphasis on:
+  - Prospecting and generating new opportunities.
+  - Closing deals more consistently.
+  - Building and maintaining strong customer relationships.
+  - Communicating value and trust to prospects and clients.
+- Suitable for:
+  - Sales professionals at any level.
+  - Founders and entrepreneurs who need to sell their product and vision.
+  - Readers looking for a compact, principle‑driven sales reference.
+- Available via digital libraries that use OverDrive/Libby.
 
-### Source
-- More information / related media: [YouTube link](https://www.youtube.com/watch?v=VPYLYtcPaak)
+## Category
+- Biographies / Business & Sales (directory category: **biographies**)
 
-### Pricing
-- Not specified in the provided content.
+## Pricing
+Pricing is not provided on the source page; availability and cost may vary by digital library or retailer.

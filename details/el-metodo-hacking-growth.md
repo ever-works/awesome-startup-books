@@ -1,41 +1,29 @@
 # El método Hacking Growth
 
 **Category:** Biographies  
-**Format:** Book (Spanish edition)  
+**Format:** Kindle Edition  
+**Length:** 446 pages  
+**First published:** April 25, 2017  
 **Authors:** Sean Ellis, Morgan Brown  
-**Publisher:** CONECTA  
-**Publication date:** 19 January 2018  
-**Pages:** 392  
-**Subject:** Business & Economics  
-**Source:** https://books.google.com/books/about/El_m%C3%A9todo_Hacking_Growth.html?id=ZAhCDwAAQBAJ
+**Language/Edition:** Spanish edition of “Hacking Growth”  
+**Source:** https://www.goodreads.com/book/show/38618236
 
-## Description
-Spanish-language edition of “Hacking Growth,” a practical guide to data-driven growth strategies used by fast-scaling companies such as Facebook, Airbnb, Uber, Pinterest, IBM, Walmart, and Microsoft. Aimed at entrepreneurs, startup founders, managers, and business teams who want to design and systematize sustainable growth through experimentation, product optimization, and customer acquisition.
+## Overview
+“El método Hacking Growth” is the Spanish edition of the growth handbook by Sean Ellis and Morgan Brown. It explains how fast-scaling companies (such as Facebook and Airbnb) use data-driven experimentation to achieve sustainable, systematic growth. The book is oriented toward startup founders and product, marketing, and growth teams who want to structure and scale acquisition, engagement, and retention.
 
 ## Features
-- **Focus on Growth Hacking methodology**
-  - Explains the core principles of growth hacking as a systematic, data-driven approach to scaling companies.
-  - Shows how leading tech and enterprise companies have applied this methodology.
+- **Focus on data-driven growth:** Emphasizes decisions based on metrics and experimentation rather than intuition alone.
+- **Growth process and framework:** Describes how to build a repeatable growth process inside a company.
+- **Experimentation methodology:** Covers running structured tests to improve product features and marketing performance.
+- **Product optimization:** Explores techniques to refine product experience to increase user activation and engagement.
+- **Customer acquisition tactics:** Discusses ways to systematically attract new users/customers.
+- **Sustainable growth:** Oriented toward long-term, compounding growth rather than short-term spikes.
+- **Relevant to high-growth tech companies:** Draws on examples from companies like Facebook and Airbnb.
+- **Target audience:** Startup founders, growth leaders, marketers, and product teams.
 
-- **Case-based context**
-  - Uses real-world examples from companies like Facebook, Airbnb, Pinterest, Uber, IBM, Walmart, and Microsoft.
-  - Illustrates how once-niche or underdog products scaled into market leaders.
-
-- **Strategic framework**
-  - Presents a structured “growth method” for planning and executing growth initiatives.
-  - Emphasizes repeatable, testable processes instead of one-off big bets.
-
-- **Practical, accessible strategies**
-  - Offers tactics that can be applied by teams and companies in diverse industries, not just tech startups.
-  - Focuses on measurable, data-backed decision-making.
-
-- **Experimentation and optimization**
-  - Guides readers in using experimentation to improve product, user experience, and customer acquisition.
-  - Encourages continuous optimization cycles informed by metrics.
-
-- **Audience orientation**
-  - Written for entrepreneurs, founders, business owners, and managers.
-  - Targets readers who want more consistent, replicable, and profitable growth results grounded in data.
+## Authors
+- **Sean Ellis** – Known for coining the term “growth hacking” and for his work with high-growth startups.
+- **Morgan Brown** – Growth and product leader with experience scaling digital products and teams.
 
 ## Pricing
-Pricing is not specified in the provided content. Readers can check the source URL or book retailers for current purchase options.
+- No pricing information is provided in the available content.

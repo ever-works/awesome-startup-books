@@ -1,44 +1,26 @@
-# Contagioso
+## Contagioso
 
 **Category:** Biographies  
 **Format:** Book (Spanish edition of *Contagious* by Jonah Berger)
 
-## Overview
-Contagioso is the Spanish-language edition of Jonah Berger’s book *Contagious*, which explains why certain products, ideas, and messages spread widely while others do not. It focuses on how to intentionally design products and marketing so they are more likely to be shared, talked about, and adopted at scale.
+### Overview
+“Contagioso” is the Spanish edition of Jonah Berger’s book *Contagious*, which explains why some products, messages, and ideas spread rapidly while others don’t. It focuses on how to intentionally design products, campaigns, and experiences that are more likely to be shared and go viral.
 
-Especially relevant for startup founders, it connects psychological and social principles of word‑of‑mouth with practical guidance on product adoption and scalable growth.
+Particularly relevant for startup founders, it connects product design, word-of-mouth, and scalable marketing so that growth isn’t driven only by paid acquisition but also by organic sharing.
 
-## Features
-- **Spanish edition of a leading marketing book**
-  - Full content of Jonah Berger’s *Contagious* translated into Spanish.
-  - Makes key growth and virality concepts accessible to Spanish‑speaking founders and teams.
+### Features
+- Explores the underlying principles of why certain ideas, products, and messages spread.
+- Focuses on practical, repeatable techniques for making offerings more “shareable.”
+- Helps readers understand how to design products and experiences that naturally encourage word-of-mouth.
+- Connects product adoption dynamics with marketing strategy and growth.
+- Provides a framework for thinking about virality as something you can design for, not just hope for.
+- Oriented toward practitioners—especially startup founders—who need scalable, low-cost growth channels.
+- Useful for planning campaigns, messaging, and product features that increase organic reach and referrals.
 
-- **Focus on why ideas and products spread**
-  - Analyzes factors that make some products, stories, and campaigns go viral.
-  - Discusses how social transmission works beyond paid advertising.
+### Ideal For
+- Startup founders and early-stage teams
+- Product managers and growth marketers
+- Anyone interested in word-of-mouth dynamics and viral marketing
 
-- **Frameworks for designing word‑of‑mouth**
-  - Offers structured ways to think about making offerings more shareable.
-  - Helps founders design products and messages that people want to talk about.
-
-- **Application to product adoption**
-  - Connects marketing ideas to real product decisions (features, positioning, and user experience).
-  - Emphasizes how to build products that naturally encourage usage and referrals.
-
-- **Guidance on scalable marketing**
-  - Focus on repeatable, word‑of‑mouth–driven growth rather than purely paid channels.
-  - Useful for early‑stage startups and growth teams looking to improve organic reach.
-
-- **Startup‑oriented use cases**
-  - Particularly useful for founders thinking about:
-    - Early user acquisition
-    - Building virality into the product
-    - Encouraging organic advocacy from customers
-
-## Ideal For
-- Startup founders and co‑founders
-- Growth, product, and marketing leaders in early‑stage companies
-- Spanish‑speaking teams working on product‑led and word‑of‑mouth growth
-
-## Pricing
-- Not specified in the provided content. Pricing will depend on retailer, format (print, ebook, audiobook), and region.
+### Pricing
+No pricing information is provided in the source content.

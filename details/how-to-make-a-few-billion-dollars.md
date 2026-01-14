@@ -1,60 +1,64 @@
 # How to Make a Few Billion Dollars
 
-**Category:** Biographies  
-**Format:** Business & finance book (entrepreneurship, company building, capital)  
-**Source:** [YouTube discussion / summary](https://www.youtube.com/watch?v=2c4LWQpuw9s)
+**Category:** Biographies / Business & Finance  
+**Format:** Book (business & finance, entrepreneurship)  
+**Author:** Brad Jacobs  
+**Primary Topic:** Building multi‑billion‑dollar companies and fortunes
 
 ## Overview
-“How to Make a Few Billion Dollars” is a business and finance book by entrepreneur Brad Jacobs, known for building multiple billion‑dollar companies from scratch. The book focuses on the strategies, decision frameworks, and mental models behind creating very large fortunes, primarily through high‑growth companies and large-scale deals.
+“How to Make a Few Billion Dollars” is a business and finance book by entrepreneur Brad Jacobs, known for building eight separate billion‑dollar companies. The book focuses on the strategies, mental models, and operating principles behind creating very large financial outcomes, primarily through high‑growth companies, roll‑ups, and large deals. It is aimed at ambitious founders and executives who want to think and execute at multi‑billion‑dollar scale.
 
-This YouTube episode from *Founders Podcast* discusses Jacobs’s work (including the related sequel, *How to Make a Few MORE Billion Dollars*) and extracts key ideas useful to ambitious founders and builders aiming for very large outcomes.
+A follow‑on volume, *How to Make a Few MORE Billion Dollars*, expands on topics readers requested after the first book, but this listing refers to the original title.
 
-## Author / Subject
-- **Brad Jacobs** – Entrepreneur and business builder
-- Track record includes:
-  - Building **8 separate billion‑dollar companies**
-  - Raising **over $50 billion** in capital over a 40+ year career
-  - Scaling organizations from idea stage to **tens of thousands of employees** and **billions in profit**
-
-## Key Themes
-- Building very large, multi‑billion‑dollar companies
-- Raising and deploying large amounts of capital
-- Organizational design and integration during rapid growth and M&A
-- Developing a resilient, disciplined mind to handle volatility and scale
-- Treating company building as “business alchemy” – creating massive value from nothing
+## Key Topics Covered
+- How to build companies capable of reaching billion‑dollar valuations
+- Raising large amounts of capital (Jacobs has raised tens of billions of dollars)
+- Scaling from idea to large organizations with tens of thousands of employees
+- Designing organizations and org charts for rapid growth and integration
+- Executing acquisition and integration playbooks
+- Developing the mindset and emotional tools to handle volatility and high‑stakes decisions
 
 ## Features
-- **Company‑building philosophy**
-  - Emphasis on starting from scratch and turning abstract ideas into large, tangible enterprise value.
-  - Focus on the “magic of company building”: going from concept to listed public company with substantial profits and workforce.
+- **Real‑world track record**  
+  Insights drawn from Jacobs’s 40+ year career building eight separate billion‑dollar companies.
 
-- **Entrepreneurial track record as a learning base**
-  - Lessons distilled from building 8 different billion‑dollar firms.
-  - Insights drawn from more than four decades as an operator and dealmaker.
+- **Company‑building “alchemy”**  
+  Explores the process of turning a bare idea into a large public company with substantial profits, employees, and market value.
 
-- **Capital‑raising strategies**
-  - Discussion of how Jacobs has raised **over $50 billion**.
-  - Ideas for “raising tons of money” and dealing with investors at scale.
+- **Capital‑raising strategies**  
+  Discusses principles for raising very large sums of money and structuring deals to support aggressive growth.
 
-- **Integration playbook**
-  - Practical ideas for **organizational integration**, especially relevant to roll‑ups and acquisition-heavy strategies.
-  - Concepts for **org chart design** that support rapid scaling and complex structures.
-  - Approach to mastering an “integration playbook” so acquired pieces function as a coherent whole.
+- **Integration playbook**  
+  Covers Jacobs’s approach to integrating acquisitions, including:
+  - Designing and refining organizational structures
+  - Planning post‑merger integration
+  - Aligning teams and processes after deals
 
-- **Mindset and mental management**
-  - Tools and habits Jacobs uses to keep his mind centered and positive.
-  - How he handles the **ups and downs** of building very large companies.
-  - Acknowledgement of imperfection and psychological challenges, while still building enormous value.
+- **Organizational design**  
+  Guidance and examples on org chart design and building teams “capable of extraordinary success.”
 
-- **Sequel and extended coverage** (context from podcast)
-  - The episode references Jacobs’s follow‑up book, **“How to Make a Few MORE Billion Dollars,”** written after further wealth creation post‑first book.
-  - The sequel expands on questions and topics not fully addressed in the original.
+- **Mindset and psychology of founders**  
+  Emphasizes managing one’s own mind over a multi‑decade entrepreneurial journey, including:
+  - Staying centered under pressure
+  - Keeping a positive and constructive mental state
+  - Handling the inevitable ups and downs of building very large companies
+  - Using mental tools to turn an “imperfect mind” into a high‑performance asset
 
-## Ideal Audience
-- Ambitious startup founders aiming for very large outcomes.
-- Operators pursuing aggressive roll‑up or M&A strategies.
-- Investors and executives interested in large‑scale organizational design.
-- Readers who want both high‑level strategy and psychological tools for enduring high-pressure, high-growth environments.
+- **High‑ambition framing**  
+  Encourages thinking at the scale of billions in value creation, not just small or medium business outcomes.
+
+- **Lessons distilled from experience**  
+  Presents standalone ideas, principles, and stories drawn from real deals and company‑building episodes.
+
+## Intended Audience
+- Startup founders and CEOs aiming for very large outcomes
+- Operators and executives involved in M&A and integration
+- Investors and dealmakers interested in roll‑ups and high‑growth platforms
+- Readers of business biographies and entrepreneurial case studies
+
+## Format & Access
+- Medium: Book (referenced and discussed in the linked podcast episode)
+- Example purchase link (from content): Amazon product page (URL provided in source video description)
 
 ## Pricing
-Pricing for the book is **not specified** in the provided content. It is sold commercially (e.g., via Amazon), with current price depending on retailer, format (print, Kindle, audio), and region.
+Pricing is not specified in the provided content. The book is sold via retailers (e.g., Amazon), where current pricing and formats (hardcover, Kindle, audiobook) can be checked directly.

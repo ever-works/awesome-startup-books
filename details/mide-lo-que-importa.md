@@ -1,46 +1,60 @@
 # Mide lo que importa
 
-- **Title:** Mide lo que importa
-- **Original title:** Measure What Matters
-- **Author:** John Doerr  
-- **Language:** Spanish (Spanish edition)  
-- **Category:** Management / Business / Goal-setting (listed under *biographies* on site)  
-- **Publisher / Imprint:** Penguin Random House  
-- **Brand logo:** ![Penguin Random House](https://global.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/img/prh-logo-default.png)
-- **Cover image:** ![Mide lo que importa](https://tienda.sophosenlinea.com/imagenes/9786073/978607385291.webp)
-- **Slug:** mide-lo-que-importa
-- **Source:** https://tienda.sophosenlinea.com/libro/mide-lo-que-importa_331629
+**Category:** Biographies  
+**Format:** Book (Spanish edition of *Measure What Matters*)  
+**Author:** John Doerr  
+**Publisher / Imprint:** Penguin Random House  
+**Original Work:** *Measure What Matters*  
+**Subject Focus:** Business management, goal-setting, OKR (Objectives and Key Results)
+
+---
 
 ## Description
-Spanish edition of John Doerr’s book on the OKR (Objectives and Key Results) framework, showing how it has been applied by organizations such as Google, YouTube, and the Gates Foundation to set priorities, align teams, and drive measurable growth. The book combines explanation of the method with case studies from major companies and leaders.
+
+*Mide lo que importa* presenta el sistema de Objetivos y Resultados Clave (OKR), un marco de gestión utilizado por empresas tecnológicas como Google para fijar objetivos claros, priorizar el trabajo y alinear equipos en torno a resultados medibles. A través de la experiencia de John Doerr como inversor y de casos de organizaciones como Google, la Fundación Gates o proyectos con Bono, el libro muestra cómo implementar OKR para impulsar el crecimiento, la coordinación interna y la ejecución disciplinada.
+
+---
 
 ## Features
-- **Focus on OKR framework**  
-  - Explains Objectives and Key Results (OKR) as a goal-setting and execution system.  
-  - Clarifies the difference between objectives (what you want to achieve) and key results (how you will measure achievement).  
-  - Emphasizes specific, measurable actions within a defined time frame.
 
-- **Organizational alignment and transparency**  
-  - Describes how OKRs make individual and team objectives transparent across the organization.  
-  - Shows how OKRs help connect goals from different departments and levels (from any employee to the CEO).  
-  - Highlights how OKRs surface the most important work in an organization and guide focus.
+- **Marco central: OKR (Objectives and Key Results)**
+  - Explica qué son los Objetivos (lo que se quiere lograr) y los Resultados Clave (cómo se medirá y logrará ese objetivo).
+  - Enfatiza que los resultados clave deben ser específicos, medibles y con un marco de tiempo definido.
 
-- **Case studies and examples**  
-  - Details Google’s adoption of OKRs starting in 1999, when the company had about 40 employees.  
-  - Describes how OKRs supported Google’s rapid scaling to tens of thousands of employees and very high market capitalization.  
-  - Includes examples and experiences from organizations and figures such as YouTube, the Gates Foundation, Bono, Bill Gates, and others.
+- **Origen del método**
+  - Presenta el origen de los OKR en Intel bajo el liderazgo de Andy Grove.
+  - Describe cómo John Doerr conoció el sistema en los años setenta como ingeniero en Intel.
 
-- **Practical management applications**  
-  - Shows how to use OKRs to set priorities and make difficult decisions.  
-  - Explains how to track progress using relevant, data-based indicators.  
-  - Discusses how OKRs can foster coordination between teams and strengthen the whole organization.  
-  - Describes potential benefits in workplace satisfaction and performance through clearer goals and metrics.
+- **Aplicación en Google**
+  - Narra la introducción de los OKR en Google en 1999, cuando era una start-up sin plan de negocio claro.
+  - Muestra cómo el sistema ayudó a Larry Page y Sergey Brin a priorizar, tomar decisiones difíciles y alinear a la empresa.
+  - Contextualiza el crecimiento de Google desde unas decenas de empleados a decenas de miles utilizando OKR como base de gestión.
 
-- **Author background**  
-  - John Doerr is chairman of venture capital firm Kleiner Perkins, which he joined in 1980.  
-  - Has invested in companies such as Amazon, Google, Intuit, Netscape, and Twitter.  
-  - His investments have contributed to large-scale job creation.  
-  - Learned OKRs at Intel in the 1970s under Andy Grove and later introduced the method to Google’s founders.
+- **Transparencia y alineación organizativa**
+  - Explica que los objetivos de todas las personas, desde cualquier empleado hasta el CEO, son visibles para toda la organización.
+  - Detalla cómo los OKR vinculan objetivos de distintos departamentos para unificar y fortalecer la empresa.
+
+- **Impacto en cultura y rendimiento**
+  - Describe cómo los OKR ayudan a:
+    - Identificar y hacer emerger el trabajo más importante.
+    - Orientar el esfuerzo y fomentar la coordinación.
+    - Mejorar la satisfacción en el lugar de trabajo.
+    - Aumentar el rendimiento individual y colectivo.
+
+- **Casos prácticos variados**
+  - Incluye un amplio abanico de casos reales de implementación de OKR en organizaciones de distinto tipo.
+  - Presenta ejemplos relacionados con Bono, la Fundación Gates y otras grandes organizaciones para ilustrar usos más allá del sector tecnológico.
+
+- **Enfoque para líderes y equipos**
+  - Orientado a directivos, líderes de equipo y responsables de producto o proyecto que necesiten fijar metas ambiciosas y ejecutarlas con disciplina.
+  - Proporciona principios aplicables tanto a grandes empresas como a start-ups y organizaciones de impacto social.
+
+- **Contexto del autor**
+  - Se apoya en la trayectoria de John Doerr como presidente de Kleiner Perkins.
+  - Incluye referencias a su experiencia inversora en empresas como Amazon, Google, Intuit, Netscape y Twitter, y su papel en la creación de cientos de miles de empleos.
+
+---
 
 ## Pricing
-- Price information is mentioned on the site in Guatemalan quetzales (Q), but the specific price for this exact edition is not clearly provided in the extracted content. For current pricing, refer to the source page: https://tienda.sophosenlinea.com/libro/mide-lo-que-importa_331629
+
+Pricing is not specified in the provided content. For current price and formats, consult the store page: <https://books.apple.com/us/book/mide-lo-que-importa/id1439644117>.

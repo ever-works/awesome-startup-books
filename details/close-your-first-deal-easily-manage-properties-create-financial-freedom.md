@@ -1,29 +1,24 @@
 # Close Your First Deal, Easily Manage Properties, & Create Financial Freedom
 
-**Brand:** Amazon Kindle  
-**Category:** Biographies / Business & Real Estate  
-**Format:** Book (Kindle; may also have Audible and print options via Amazon)
+**Category:** Biographies  
+**Format / Platform:** Book (available via Amazon / Kindle)  
+**Brand:** amazon-kindle
 
-## Description
-“Close Your First Deal, Easily Manage Properties, & Create Financial Freedom” is a real-estate and business–focused book available on Amazon. It aims to guide readers through:
-- Closing their first real-estate deal
-- Setting up and managing rental or investment properties
-- Using property investing as a path toward financial freedom
-
-While primarily geared toward new or aspiring real-estate investors, portions of the content may also be useful to founders interested in small-business and real-estate–based startup models.
+## Overview
+“Close Your First Deal, Easily Manage Properties, & Create Financial Freedom” is a business and real-estate-focused book that walks readers through the fundamentals of getting started in property investing. It emphasizes practical guidance on completing an initial real estate deal, managing properties day to day, and using property-based income as a path toward financial independence. While it is primarily aimed at new property investors, parts of the book may also be useful for founders interested in small-business and real-estate-based startup models.
 
 ## Features
-- Step-by-step guidance for closing a first real-estate deal
-- Practical advice on day-to-day property management
-- Frameworks for using real estate to build long-term financial freedom
-- Orientation toward starting a business through property investing
-- Applicable insights for small-business and real-estate–focused startup founders
+- **First-deal playbook:** Step-by-step guidance for closing your first real estate deal, aimed at beginners.
+- **Property management basics:** Practical advice on how to manage properties once acquired (operations, oversight, and ongoing responsibilities).
+- **Financial freedom focus:** Frames real estate investing as a route to building long-term financial freedom.
+- **Business + real estate lens:** Combines small-business thinking with property investing strategies, making it relevant to entrepreneurial readers.
+- **Startup-model relevance:** Portions of the book are applicable to founders exploring small-business or real-estate-based startup models (e.g., property-backed ventures, service businesses around rentals or management).
+- **Accessible to new investors:** Oriented toward people starting a business through property investing, with an emphasis on early steps rather than advanced finance.
+
+## Intended Audience
+- Aspiring real estate investors looking to do their first deal.
+- New or early-stage landlords seeking property management guidance.
+- Founders and entrepreneurs considering real estate–based or property-adjacent startup models.
 
 ## Pricing
-- Available via **Kindle** on Amazon  
-- Listed individual purchase price: **$9.99** (for the Kindle edition)
-- Also available:
-  - **Free with Kindle Unlimited membership** (subscription required)
-  - **Free with Audible trial** (for the audiobook version, where available)
-
-> Note: Exact formats (Kindle, Audible, print) and prices may vary by region and over time; check the Amazon product page for current details.
+- Pricing details are not provided in the source content. The book is available for purchase via Amazon / Kindle, where the current price and formats (e.g., ebook, print) can be checked directly.

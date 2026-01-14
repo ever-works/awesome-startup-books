@@ -1,45 +1,36 @@
 # Tus próximas cinco jugadas
 
-**Author:** Patrick Bet-David  
+**Type:** Book (Paperback)  
 **Language:** Spanish  
-**Publisher:** Sirio, 2022  
-**Category:** Biographies / Business & Leadership  
-**Format on source site:** Book summary (via getAbstract)  
+**Full title:** *Tus Próximas Cinco Jugadas: Domina el arte de la estrategia en los negocios*  
+**Publication date (paperback):** 22 Nov 2022  
+**Category:** Business strategy / Entrepreneurship (listed under Biographies)
 
-A Spanish-language business strategy book that helps entrepreneurs and leaders think several moves ahead, structure long‑term plans, and make better competitive decisions. It is especially relevant for startup founders working on growth, positioning, and leadership development.
+## Overview
 
----
-
-## Key Topics Covered
-
-- Strategic thinking “several moves ahead” in business
-- Long‑term planning and decision-making for entrepreneurs
-- Competitive positioning and differentiation
-- Leadership skills for founders and business leaders
-- Structuring growth strategies for startups and companies
-
----
+Spanish-language business strategy book that helps entrepreneurs and leaders pensar varias jugadas por adelantado, estructurar planes a largo plazo y tomar mejores decisiones competitivas. It is aimed especially at startup founders and business owners who want to design growth and positioning strategies with a structured, multi‑step approach.
 
 ## Features
 
-- **Focus on strategy as a game of moves:** Encourages readers to plan their “next five moves” rather than acting reactively.
-- **Entrepreneur‑oriented approach:** Tailored to the challenges and decisions business founders and leaders face.
-- **Leadership development:** Explores what is required to be an effective leader and entrepreneur.
-- **Practical decision-making lens:** Aims to improve the quality of strategic and competitive decisions.
-- **Relevance for startups and growth companies:** Directly applicable to designing growth paths and market positioning.
-- **Spanish‑language edition:** Makes Patrick Bet-David’s strategy concepts accessible to Spanish-speaking readers.
+- **Strategic thinking framework** focused on planning your “next five moves” instead of reacting tactically.  
+- **Entrepreneurship focus:** guidance tailored to business owners, startup founders and aspirational entrepreneurs.  
+- **Long‑term planning:** tools to clarify long‑range business goals and map sequential steps to reach them.  
+- **Competitive decision‑making:** emphasis on how to anticipate competitors, read the game in your market and prepare counter‑moves.  
+- **Leadership development:** supports leaders in aligning personal ambition, team direction and company strategy.  
+- **Spanish edition:** full content available in Spanish for native speakers and learners interested in business topics.  
+- **Relevance for growth and positioning:** directly applicable to designing growth strategies, market positioning and scaling plans for startups and small businesses.
 
----
+## Author
 
-## Ideal For
+- **Author:** Patrick Bet-David (businessman and entrepreneurship educator).  
+- Described in external commentary as both a successful businessperson and a strategic thinker, with experience teaching entrepreneurs how to decide what to do next in their business.
 
-- Startup founders and co‑founders
-- Business owners and entrepreneurs
-- Managers transitioning into strategic leadership roles
-- Readers interested in practical business strategy and competitive thinking
+## Format & Publication
 
----
+- **Format:** Paperback  
+- **Language:** Spanish  
+- **Release (this edition):** 22 November 2022
 
 ## Pricing
 
-No pricing or plan information is provided in the available content for this specific book or its summary. Pricing for access to getAbstract’s library (including this summary) is not detailed in the source content.
+- No specific pricing or plan information is provided in the available content. Readers should check the linked retailer page for current price and format options.

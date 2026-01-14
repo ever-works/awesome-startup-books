@@ -1,56 +1,35 @@
 # Prospectos de $100M
 
-**Category:** Biographies  
-**Format:** Book  
+**Category:** Biographies / Entrepreneurship  
+**Brand / Author Platform:** Acquisition.com (Alex Hormozi)  
 **Language:** Spanish  
-**Author (original framework):** Alex Hormozi (Spanish edition of his customer-acquisition / lead-generation playbook)  
-**Publisher/Brand:** Acquisition.com (brand: `-acquisitioncom`)
+**Format:** Book  
+**Source:** [Google Play Books (Entrepreneurship)](https://play.google.com/store/books/category/subj_Business___Economics.Entrepreneurship?hl=fa)
 
-Spanish-language edition of Alex Hormozi’s playbook on generating and converting leads at scale. It focuses on designing irresistible offers, building repeatable acquisition systems, and turning strangers into eager buyers, with strong relevance for growth-focused startup founders and entrepreneurs.
+## Description
+“Prospectos de $100M” is the Spanish-language edition of Alex Hormozi’s playbook on customer acquisition and lead generation. It focuses on crafting highly compelling offers and building scalable systems that convert strangers into motivated buyers.
 
----
+Although written for a broad business audience, it is frequently used by startup founders as a practical guide to systematic growth, funnel design, and offer positioning from the earliest stages of a company through scale-up.
 
 ## Features
+- Spanish edition of Alex Hormozi’s $100M leads and customer acquisition framework.
+- Emphasis on designing high-value, high-conversion offers.
+- Practical guidance on building scalable lead-generation systems.
+- Focus on turning cold audiences (strangers) into qualified, eager buyers.
+- Applicable to general small businesses and online businesses.
+- Widely adopted by startup founders for:
+  - Early-stage growth strategy.
+  - Marketing and sales funnel design.
+  - Offer testing and positioning.
+  - Scaling customer acquisition channels.
+- Structured as a step-by-step playbook rather than theory-focused text.
+- Complements other entrepreneurship and growth titles commonly found in founder reading lists.
 
-- **Spanish edition of a leading growth/marketing playbook**
-  - Full adaptation of Alex Hormozi’s $100M leads & offers methodology for Spanish-speaking readers.
-  - Keeps the core focus on systematic customer acquisition and lead generation.
-
-- **Focus on high-converting offers**
-  - Guides readers on how to create “highly compelling” offers that stand out in crowded markets.
-  - Emphasizes offer structure, positioning, and perceived value rather than just ad tactics.
-
-- **Systematic customer acquisition**
-  - Oriented around building scalable systems to acquire leads predictably.
-  - Helps readers think in terms of repeatable processes and funnels instead of one-off campaigns.
-
-- **Lead generation to buyer conversion**
-  - Covers how to move prospects from strangers to “eager buyers.”
-  - Addresses the full path from first contact to purchase decision.
-
-- **Funnel and growth design for startups**
-  - Although framed for general businesses, it is used heavily by startup founders.
-  - Teaches fundamentals of funnel design, offer positioning, and early-stage growth.
-  - Applicable from early validation stages through later-scale growth.
-
-- **Startup founder–oriented use cases**
-  - Helps founders understand and implement systematic growth instead of ad‑hoc marketing.
-  - Useful for designing early traction strategies, scaling acquisition channels, and refining offers.
-
-- **Applicable across business types**
-  - Framed for general businesses (not limited to SaaS, agencies, or info products).
-  - Principles can be adapted to a wide range of industries and business models.
-
----
+## Intended Audience
+- Growth-focused startup founders.
+- Small business owners and entrepreneurs.
+- Marketers and sales professionals building acquisition funnels.
+- Spanish-speaking readers seeking a practical guide to systematic growth.
 
 ## Pricing
-
-- Not specified in the provided content. Pricing depends on the retailer (e.g., Google Play Books) and may vary by region, format, and any ongoing discounts.
-
----
-
-## Additional Details
-
-- **Source URL:** https://play.google.com/store/books/category/subj_Business___Economics.Entrepreneurship?hl=fa
-- **Slug (directory ID):** `prospectos-de-100m`
-- **Images/Cover:** Not provided explicitly for this title in the extracted content (only other book covers shown).
+Pricing details are not specified in the provided content. Check the Google Play Books listing for current price, discounts, or regional variations.

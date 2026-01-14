@@ -1,30 +1,26 @@
-# Lean Startup
+## Lean Startup
 
-A foundational methodology book for startup founders that focuses on validated learning, rapid experimentation, and iterative product development. Frequently referenced as a core framework for building and scaling startups efficiently, it is considered essential reading for entrepreneurs and innovators.
+**Category:** Biographies  
+**Tags:** lean, experimentation, product-development
 
-## Category
-- Biographies (book / entrepreneurship & innovation)
+### Overview
+The *Lean Startup* is a foundational methodology book for startup founders, entrepreneurs, and innovators. It emphasizes validated learning, rapid experimentation, and iterative product development as a systematic way to build and scale startups more efficiently and with less waste.
 
-## Features
-- Focuses on the **Lean Startup methodology** for building and scaling startups
-- Emphasizes **validated learning** as the primary measure of progress
-- Promotes **rapid experimentation** to test hypotheses about products, customers, and markets
-- Advocates **iterative product development** instead of large upfront planning
-- Designed as a **practical framework** for startup founders and innovation teams
-- Aims to help build startups **more efficiently** by reducing waste and focusing on what customers actually need
-- Widely treated as a **core reference** among entrepreneurs, innovators, and product teams
+### Features
+- **Validated learning:** Focuses on learning what customers actually want through data and real-world tests rather than assumptions.
+- **Rapid experimentation:** Encourages quickly testing ideas and hypotheses to reduce risk and discover what works.
+- **Iterative product development:** Promotes building products in small, incremental cycles to adapt based on feedback.
+- **Implementation-level guidance:** Provides practical, actionable details on how to apply Lean principles in real startups.
+- **Efficiency in building and scaling:** Offers a framework for using resources more effectively while growing a startup.
+- **Applicability across roles:** Useful for founders, product teams, and innovators working on new products or business models.
 
-## Related / Series Context
-- Part of a broader Lean-focused ecosystem (The Lean Series) curated by Eric Ries
-- Related titles in the Lean Series include: Lean Analytics, Running Lean, Lean UX, UX for Lean Startups, and Lean Enterprise
+### Related Series
+The book sits within **The Lean Series**, a collection curated by Eric Ries, which includes:
+- Lean Analytics  
+- Running Lean  
+- Lean UX  
+- UX for Lean Startups  
+- Lean Enterprise
 
-## Tags
-- lean
-- experimentation
-- product-development
-
-## Source
-- More information: https://theleanstartup.com/the-lean-series
-
-## Pricing
-- Not specified in the provided content; availability is indicated "everywhere" via multiple retailers, but no concrete pricing details are given.
+### Pricing
+Pricing is not specified in the provided content; it depends on retailer and format (e.g., print, digital).
