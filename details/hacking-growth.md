@@ -1,24 +1,42 @@
 ## Hacking Growth
 
-**Authors**: Sean Ellis & Morgan Brown  
-**Category**: Growth & Scaling  
-**Publication Date**: April 25, 2017  
-**Format**: Hardcover, 320 pages  
-**Source URL**: [Goodreads - Hacking Growth](https://www.goodreads.com/book/show/31625067-hacking-growth)
+**Category:** Biographies  
+**Brand/Publisher:** crown-business  
+**Format:** Book  
+**Slug:** hacking-growth
 
-### Description
-"Hacking Growth" delves into the innovative strategies employed by some of the fastest-growing startups. Authored by Sean Ellis and Morgan Brown, the book provides actionable insights for entrepreneurs and founders aiming to scale their businesses efficiently. It emphasizes the concept of growth hacking—a blend of marketing, data analysis, and product development aimed at driving rapid business growth.
+### Overview
+"Hacking Growth" is a growth strategy book by Sean Ellis and Morgan Brown. It explains how modern high‑growth startups systematically run experiments, optimize user journeys, and organize teams to drive sustainable growth. The book is aimed at startup founders and teams who want a structured, data‑driven approach to scaling their product and business.
 
 ### Features
-- **Growth Hacking Strategies**: Detailed exploration of techniques used by successful startups.
-- **Actionable Insights**: Practical advice for business founders and entrepreneurs.
-- **Case Studies**: Real-world examples of how companies have implemented growth hacking tactics.
-- **Cross-Disciplinary Approach**: Combines marketing, data analysis, and product development.
+- **Focus on high‑growth startups**  
+  Uses companies like Dropbox and Airbnb as examples of systematic, experiment‑driven growth.
 
-### Tags
-- Growth Hacking
-- Scaling
-- Strategy
+- **End‑to‑end growth funnel coverage**  
+  - User acquisition  
+  - User activation (getting new users to first value)  
+  - User retention (keeping users engaged over time)  
+  - Monetization (turning usage into revenue)
 
-### Additional Information
-"Hacking Growth" is a resourceful guide for anyone interested in understanding the dynamics of modern business growth strategies. It does not include pricing details as it is a book rather than a service or product with multiple plans.
+- **Experimentation methodology**  
+  Describes how to design, prioritize, and run iterative experiments to improve key metrics at each funnel stage.
+
+- **Funnel optimization**  
+  Explains how to analyze and improve each step of the customer journey using data and testing.
+
+- **Cross‑functional growth teams**  
+  Shows how to structure and operate dedicated growth teams that combine skills from product, marketing, data, and engineering.
+
+- **Data‑driven decision making**  
+  Promotes using quantitative data and measurable outcomes as the basis for growth decisions.
+
+- **Practical playbook orientation**  
+  Intended as a hands‑on guide for founders and growth practitioners to implement growth processes inside their startups.
+
+### Target Audience
+- Startup founders and co‑founders  
+- Early‑stage growth teams  
+- Product, marketing, and growth professionals seeking a structured growth framework
+
+### Pricing
+Pricing and editions are not provided in the available content. For current prices, check major book retailers or the publisher (Crown Business).
