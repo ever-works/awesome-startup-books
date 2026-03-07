@@ -1,6 +1,6 @@
 ## Overview
 
-Reed Hastings and Erin Meyer explain Netflix's radical culture of freedom and responsibility. High talent density, candor, and removing controls.
+Patty McCord shares Netflix's culture of freedom and responsibility. Treat employees like adults, hire only high performers, and cultivate radical honesty.
 
 ## Why It Matters for Founders
 

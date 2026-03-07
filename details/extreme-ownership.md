@@ -1,6 +1,6 @@
 ## Overview
 
-Brené Brown teaches brave leadership. Vulnerability is not weakness—it's essential for innovation, creativity, and change.
+Jocko Willink and Leif Babin apply Navy SEAL leadership principles to business. Take complete ownership, lead up and down, and prioritize and execute.
 
 ## Why It Matters for Founders
 
