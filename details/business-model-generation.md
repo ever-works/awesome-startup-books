@@ -1,56 +1,36 @@
-## Business Model Generation
+## Overview
 
-**Category:** Startup Methodologies  
-**Brand/Publisher:** Wiley  
-**Format:** Book  
-**Slug:** `business-model-generation`
+Business Model Generation is a handbook for visionaries, game changers, and challengers striving to defy outmoded business models and design tomorrow's enterprises.
 
-![Business Model Generation Cover](https://m.media-amazon.com/images/I/81nNexTnBeL.jpg)
+## The Business Model Canvas
 
-### Overview
-“Business Model Generation” by Alexander Osterwalder introduces the Business Model Canvas, a visual, practical toolkit for designing, testing, and iterating startup and corporate business models. It helps founders clearly articulate how their venture creates, delivers, and captures value.
+The book introduces the Business Model Canvas, a one-page tool with nine building blocks:
 
-### Key Details
-- **Primary focus:** Business model design and innovation
-- **Core tool:** Business Model Canvas
-- **Use cases:** Early-stage startups, innovation teams in larger companies, accelerators, and entrepreneurship programs
-- **Position in entrepreneurial stack:** Foundational text for answering “What’s your business model?” with structure and precision
+1. **Customer Segments**: Who are you serving?
+2. **Value Propositions**: What problems are you solving?
+3. **Channels**: How do you reach customers?
+4. **Customer Relationships**: How do you interact with customers?
+5. **Revenue Streams**: How do you make money?
+6. **Key Resources**: What assets do you need?
+7. **Key Activities**: What must you do?
+8. **Key Partnerships**: Who helps you?
+9. **Cost Structure**: What does it cost?
 
-### Features
-- **Business Model Canvas framework**  
-  - Nine building blocks: customers, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure  
-  - Shared visual language to discuss and iterate business models within a team  
-  - Useful for both new ventures and existing businesses revisiting their models
+## Visual Approach
 
-- **Model design and innovation techniques**  
-  - Guidance on generating alternative business model ideas  
-  - Tools for comparing and refining different models  
-  - Emphasis on experimentation rather than static planning
+The book uses visual thinking and design to help entrepreneurs map, discuss, design, and invent new business models.
 
-- **Customer and value-focus**  
-  - Helps founders move from product-centric to business-model-centric thinking  
-  - Clarifies how value is created for specific customer segments  
-  - Connects revenue logic to customer needs and behaviors
+## Applications
 
-- **Iteration and testing mindset**  
-  - Encourages continuous refinement of the business model based on market feedback  
-  - Complements customer discovery, Lean Startup, and agile development practices  
-  - Serves as a foundation before and during product/market fit work (further expanded in “Value Proposition Design”)
+- Designing new business models
+- Analyzing existing models
+- Pivoting strategies
+- Communicating business plans
 
-- **Team collaboration tool**  
-  - Enables cross-functional teams to work from a shared canvas  
-  - Suitable for workshops, whiteboard sessions, and investor discussions  
-  - Helps communicate the business model quickly and coherently to stakeholders
+## Impact
 
-### Pricing
-Pricing details are not provided in the source content. Refer to the publisher or bookseller (e.g., Amazon or Wiley) for current pricing and formats.
+The Business Model Canvas has become a standard tool used by millions of entrepreneurs and companies worldwide.
 
-### Tags
-- `business-model`  
-- `frameworks`  
-- `design-thinking`
+## Pricing
 
-### External Links
-- **Source listing:** https://elevateventures.com/resource/books-for-startups/  
-- **Publisher:** https://www.wiley.com  
-- **Recommended by Elevate Ventures within:** "Books for Startups" entrepreneurial management stack resource.
+Available for approximately $25-40.
