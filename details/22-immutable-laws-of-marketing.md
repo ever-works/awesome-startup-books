@@ -41,7 +41,7 @@ The most powerful concept in marketing is owning a word in the prospect's mind. 
 
 ## Relevance to Positioning & Startups
 
-Along with Jack Trout, Ries is credited with resurrecting the idea of "positioning" in the field of marketing. The book provides practical guidance for startups and established brands alike on how to establish and maintain competitive positions in the marketplace.
+Along with Jack Trout, Ries is credited with resurrecting the idea of \"positioning\" in the field of marketing. The book provides practical guidance for startups and established brands alike on how to establish and maintain competitive positions in the marketplace.
 
 ## Timeless Wisdom
 

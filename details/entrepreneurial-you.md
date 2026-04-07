@@ -1,4 +1,4 @@
-#Entrepreneurial You
+# Entrepreneurial You
 
 Dorie Clark offers insights into diversifying income streams and monetizing expertise, providing a roadmap for entrepreneurs to expand their business models effectively.
 

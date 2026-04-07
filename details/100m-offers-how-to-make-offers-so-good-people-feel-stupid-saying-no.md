@@ -25,7 +25,7 @@ In $100M Offers, Alex Hormozi shares his exact framework for creating offers so 
 - How to structure bonuses that increase perceived value
 - Different types of guarantees and when to use them
 - Creating scarcity and urgency authentically
-- The "Stack" method for presenting offers
+- The \"Stack\" method for presenting offers
 - How to eliminate objections before they arise
 
 ## Results-Driven Approach

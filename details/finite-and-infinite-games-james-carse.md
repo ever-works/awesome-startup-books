@@ -43,7 +43,7 @@ The infinite game—there is only one—includes any authentic interaction, from
 - **Plays with boundaries** rather than within them
 - **Exists solely** for the purpose of continuing the game
 - **Generates time** by keeping play going
-- **Brings as many persons as possible into play**
+- **Brings as many persons as possible into play
 
 ### Characteristics of Infinite Games
 - Have no defined endpoint

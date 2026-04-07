@@ -1,6 +1,6 @@
 ## Overview
 
-Jonah Berger's "Contagious: Why Things Catch On" distills years of research into understanding why certain ads, products, YouTube videos, political movements, songs, and restaurants catch on, while others are ignored.
+Jonah Berger's \"Contagious: Why Things Catch On\" distills years of research into understanding why certain ads, products, YouTube videos, political movements, songs, and restaurants catch on, while others are ignored.
 
 ## The STEPPS Framework
 
