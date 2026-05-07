@@ -1,11 +1,21 @@
 ## Overview
 
-Clayton Christensen follows up on the Innovator's Dilemma, explaining how to create disruptive growth. Jobs to be done, modular architecture, and the right resources.
+The Innovator’s Solution by Clayton Christensen offers a research‑based framework for creating and sustaining growth through disruptive innovation.
 
-## Why It Matters for Founders
+## Key Takeaways
 
-This book provides essential insights for startup founders on disruption, helping build successful companies through proven principles and practices.
+- How to craft disruptive strategies that win in the market.
+- Ways to protect your business from being disrupted by competitors.
+- Insights drawn from extensive case studies across hundreds of companies.
+
+## Author
+
+Clayton Christensen, renowned Harvard Business School professor and thought leader on innovation.
+
+## Publication Info
+
+Originally published in 2003; available in hardcover, paperback, and Kindle editions.
 
 ## Pricing
 
-Available in multiple formats including hardcover, paperback, ebook, and audiobook.
+Varies by retailer; typically priced between $20‑$30 for paperback editions.
