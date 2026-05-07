@@ -1,16 +1,17 @@
 ## Overview
 
-The Lean Startup is a methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable. This is achieved through a combination of business-hypothesis-driven experimentation, iterative product releases, and validated learning.
+The Lean Startup presents a scientific approach to creating and managing startups, focusing on customer feedback, iterative design, and validated learning.
 
-## Features
-
-- Emphasis on validated learning through experiments
+## Key Concepts
 - Build-Measure-Learn feedback loop
-- Minimum Viable Product (MVP) concept
-- Continuous deployment and split testing
-- Actionable metrics vs vanity metrics
-- Pivot or persevere decisions based on feedback
+- Minimum Viable Product (MVP)
+- Validated learning through experiments
+- Innovation accounting
+- Pivot or persevere decisions
+
+## Audience
+Ideal for entrepreneurs, product managers, and anyone looking to launch a new venture or innovate within an existing company.
 
 ## Pricing
 
-The book is available for purchase in various formats; pricing varies by retailer.
+Pricing varies by edition and retailer; typically ranges from $10 to $30 for paperback and Kindle editions.
