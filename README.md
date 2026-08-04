@@ -822,6 +822,10 @@ A curated list of books for startup founders
 - [The High Growth Handbook: Scaling Startups from 10 to 10,000 People](https://www.youtube.com/watch?v=4erq0sQ3eEM) - A practical guide for startup founders and executives on scaling a company from early traction to large, high-growth operations. Covers hiring, org design, fundraising, product, and operations, with insights from experienced founders and operators. Considered a must-read for leaders navigating the growth phase of a startup. ([Read more](/details/the-high-growth-handbook-scaling-startups-from-10-to-10000-people.md)) `Scaling` `Growth Strategy` `Operations`
 - [Traversing the Traction Gap](https://www.goodreads.com/book/show/42060037-traversing-the-traction-gap) - Authored by Bruce Cleveland, this book provides a strategic framework for startups to successfully navigate the critical stages of growth. It focuses on developing a market-first mindset to ensure go-to-market success. ([Read more](/details/traversing-the-traction-gap.md)) `Growth` `Strategy` `market`
 
+## ⭐ Star History
+
+[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-startup-books&type=Date)](https://stats-github.ever.works/#ever-works/awesome-startup-books&Date)
+
 ## Legal
 
 - [Regulatory Hacking](https://www.regulatoryhacking.net/) - By Evan Burfield, step-by-step textbook with case studies for startups entering regulated markets. ([Read more](/details/regulatory-hacking.md)) `Regulation` `Hacking`
