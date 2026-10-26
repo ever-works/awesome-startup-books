@@ -560,6 +560,7 @@ A curated list of books for startup founders
 - [The Startup Checklist: 25 Steps to a Scalable, High-Growth Business](https://amzn.to/3TP76rZ) - David S. Rose provides a comprehensive, step-by-step guide covering 25 critical actions for launching and scaling a startup, from legal formation to growth strategies and exit planning. ([Read more](/details/the-startup-checklist-25-steps-to-a-scalable-high-growth-business.md)) `Checklist` `Execution` `Scaling`
 - [The Startup Owner's Manual](https://steveblank.com/) - Steve Blank and Bob Dorf provide a step-by-step guide to building a great company, offering practical advice and strategies for startup founders. ([Read more](/details/the-startup-owners-manual.md)) `Business Strategy` `Entrepreneurship` `Guide`
 - [Will It Fly?](https://courses.smartpassiveincome.com/p/willitfly) - "Will It Fly?" by Pat Flynn is a practical guide for entrepreneurs to test their business ideas before investing time and money. It provides strategies to validate ideas and ensure they have the potential to succeed. ([Read more](/details/will-it-fly.md)) `Idea Validation` `Entrepreneurship` `Success`
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Customer Experience
 
